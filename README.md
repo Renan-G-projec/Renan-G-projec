@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Renan! 16yo dev building Games and low level stuff.
 
 ![Termform](.github/termform-hyperchroma.png)
-![Mineascii](.gihbub/mineascii-superstar.png)
+![Mineascii](.gitbub/mineascii-superstar.png)
 
 <!--
 **Renan-G-projec/Renan-G-projec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
