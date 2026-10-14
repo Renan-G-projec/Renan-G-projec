@@ -1,8 +1,12 @@
 ## Hi there 👋 I'm Renan! 16yo dev building Games and low level stuff.
 
 ![Termform](.github/termform-hyperchroma.png)
+<br>
 ![Mineascii](.github/mineascii-superstar.png)
-
+<br>
+## Interests
+- I Like developing games in Godot/Redot! 
+- I LOVE C/C++ and low level.
 <!--
 **Renan-G-projec/Renan-G-projec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
